@@ -1,0 +1,27 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 1.5;
+}
+
+body {
+    background-color: rgb(253, 232, 206);
+}
+
+img {
+    height: auto;
+    width: 450px;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.heading {
+    text-align: center;
+    font-weight: bolder;
+}
+
